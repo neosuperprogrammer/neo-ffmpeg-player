@@ -1,43 +1,0 @@
-10
-
-dir
-18
-https://neo-ffmpeg-player.googlecode.com/svn/trunk/android/jni/BasicPlayer/ffmpeg
-https://neo-ffmpeg-player.googlecode.com/svn
-
-
-
-2012-06-11T07:12:43.439511Z
-3
-neosuperprogrammer@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-cdcc7e63-ba30-4557-40e0-91b29b2f1e4e
-
-libavfilter
-dir
-
-libavformat
-dir
-
-libswscale
-dir
-
-libavcodec
-dir
-
-libavutil
-dir
-
