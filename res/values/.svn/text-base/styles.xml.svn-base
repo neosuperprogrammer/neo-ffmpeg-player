@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- TcloudUpgrade에서 사용할 Style -->
+	
+	<style name="TcloudTextAppearance_Bold">
+		<item name="android:textSize">@dimen/font_17_pt</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	
+	<style name="TcloudTextAppearance_Default">
+		<item name="android:textSize">@dimen/font_17_pt</item>
+	</style>
+	
+  	<style name="defaultButton" parent="@android:style/Widget.Button">
+    	<item name="android:textColor">@drawable/button_text_color</item>
+		<item name="android:textSize">@dimen/font_20_pt</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	
+	<style name="defaultInfoButton" parent="@android:style/Widget.Button">
+    	<item name="android:textColor">@drawable/button_text_color</item>
+		<item name="android:textSize">@dimen/font_20_pt</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+
+  	<style name="defaultPopupButton" parent="@android:style/Widget.Button">
+    	<item name="android:textColor">@drawable/button_text_color</item>
+		<item name="android:textSize">@dimen/font_20_pt</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	
+	<style name="defaultListView" parent="@android:style/Widget.ListView"> 
+		<item name="android:divider">@color/color_CCCCCC</item>
+		<item name="android:dividerHeight">0.66dp</item>
+		<item name="android:cacheColorHint">#00000000</item>
+	</style>
+
+    <style name="TextAppearance_Photo">
+        <item name="android:textColor">@color/white_color</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="TextAppearance_Photo.blue">
+        <item name="android:textColor">@color/photo_blue</item>
+    </style>
+	
+    <style name="blueTextAppearance_Big">
+        <item name="android:textColor">@color/blue_color</item>
+        <item name="android:textSize">@dimen/font_22_pt</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+   <style name="blueTextAppearance_Big.White">
+        <item name="android:textColor">@color/white_color</item>
+    </style>
+
+   <style name="blueTextAppearance_Normal">
+        <item name="android:textColor">@color/blue_color</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+   <style name="blueTextAppearance_Normal.Gray">
+        <item name="android:textColor">@color/gray_color</item>
+    </style>
+    
+   <style name="blueTextAppearance_Normal.White">
+        <item name="android:textColor">@color/white_color</item>
+    </style>
+    
+    <style name="blueTextAppearance_Normal.LightBlue">
+    	<item name="android:textColor">@color/light_blue_color</item>
+    </style>
+    
+    <style name="blueTextAppearance_Normal.DazzlingBlue">
+    	<item name="android:textColor">@color/dazzling_blue_color</item>
+    </style>
+    
+    <style name="blueTextAppearance_Normal.Sky">
+    	<item name="android:textColor">@color/sky</item>
+    </style>
+    
+    <style name="blueTextAppearance_Normal2">
+        <item name="android:textColor">@color/blue_color</item>
+        <item name="android:textSize">@dimen/font_18_pt</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+   <style name="blueTextAppearance_Small">
+        <item name="android:textColor">@color/blue_color</item>
+        <item name="android:textSize">@dimen/font_17_pt</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+   <style name="blueTextAppearance_Small.Gray">
+        <item name="android:textColor">@color/gray_color</item>
+    </style>
+    
+    <style name="blueTextAppearance_Small.White">
+    	<item name="android:textColor">@color/white_color</item>
+    </style>
+
+    <style name="blueTextAppearance_Small.LightBlue">
+    	<item name="android:textColor">@color/light_blue_color</item>
+    </style>
+
+    <style name="blueTextAppearance_Small.Contact">
+    	<item name="android:textColor">@color/contact_color</item>
+    </style>
+
+    <style name="blueTextAppearance_Small.DazzlingBlue">
+    	<item name="android:textColor">@color/dazzling_blue_color</item>
+    </style>
+    
+    <style name="blueTextAppearance_Small.Sky">
+    	<item name="android:textColor">@color/sky</item>
+    </style>
+    
+    <style name="blueTextAppearance_Small.LightGray">
+    	<item name="android:textColor">@color/light_gray_color</item>
+    </style>
+    
+	<style name="orangeTextAppearance">
+		<item name="android:textColor">@color/orange</item>
+		<item name="android:textSize">16sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="orangeTextAppearance.Small">
+		<item name="android:textSize">14sp</item>
+	</style>
+	<style name="orangeTextAppearance.Dday">
+		<item name="android:textColor">#FF2A00</item>
+		<item name="android:textSize">11sp</item>
+	</style>
+	
+	<style name="purpleTextAppearance_Small">
+		<item name="android:textColor">@color/purple</item>
+		<item name="android:textSize">16sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="TitleTextAppearance">
+		<item name="android:textColor">@color/white_color</item>
+		<item name="android:textSize">22.66sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	
+	<style name="WhiteBackground_Notification">
+		<item name="android:textColor">@color/black</item>
+		<item name="android:textSize">18sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="WhiteBackground_Notification_Small">
+		<item name="android:textColor">@color/black</item>
+		<item name="android:textSize">16sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+	<style name="BlackBackground_Notification">
+		<item name="android:textColor">@color/white_color</item>
+		<item name="android:textSize">14sp</item>		
+	</style>
+	<style name="BlackBackground_Notification_Small">
+		<item name="android:textColor">@color/white_color</item>
+		<item name="android:textSize">13sp</item>
+		<item name="android:textStyle">bold</item>
+	</style>
+    
+   	<style name="ProgressTransparent" parent="@android:style/Theme.Dialog">
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:backgroundDimEnabled">false</item>
+		<item name="android:windowContentOverlay">@null</item>  
+		<item name="android:windowFrame">@null</item>  
+
+	</style>
+    
+    <style name="TextAppearance">
+        <item name="android:textColor">@color/primary_text_color</item>
+        <item name="android:textSize">19sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    
+    <style name="TextAppearance.Popup">
+        <item name="android:textColor">@color/popup_text_color</item>
+    </style>
+
+    <style name="TextAppearance.Popup.Large">
+		<item name="android:textSize">22sp</item>
+    </style>
+
+</resources>
+

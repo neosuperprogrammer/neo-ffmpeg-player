@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- TcloudUpgrade에서 사용할 Theme -->
+   	<style name="TcloudTheme" parent="android:Theme">
+   		<item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/backgroundColor</item>
+    </style>
+   
+</resources>

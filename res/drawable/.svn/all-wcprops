@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/17/trunk/android/res/drawable
+END
+button_mediactl_play.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/android/res/drawable/button_mediactl_play.xml
+END
+multimedia_list_selector_background.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/16/trunk/android/res/drawable/multimedia_list_selector_background.xml
+END
+button_mediactl_prev.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/android/res/drawable/button_mediactl_prev.xml
+END
+button_mediactl_pause.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/trunk/android/res/drawable/button_mediactl_pause.xml
+END
+button_mediactl_next.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/trunk/android/res/drawable/button_mediactl_next.xml
+END
+button_text_color.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/android/res/drawable/button_text_color.xml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/18/trunk/android/jni/BasicPlayer
+END
+BasicPlayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/18/trunk/android/jni/BasicPlayer/BasicPlayer.c
+END
+Interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/18/trunk/android/jni/BasicPlayer/Interface.c
+END
+BasicPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/18/trunk/android/jni/BasicPlayer/BasicPlayer.h
+END
+BasicPlayerJni.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10/trunk/android/jni/BasicPlayer/BasicPlayerJni.h
+END
+mySDL.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/android/jni/BasicPlayer/mySDL.c
+END
+mySDL_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/android/jni/BasicPlayer/mySDL_timer.c
+END
+mySDL_timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/android/jni/BasicPlayer/mySDL_timer.h
+END
+mySDL.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/android/jni/BasicPlayer/mySDL.h
+END

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="font_09_pt">6.00sp</dimen>
+	<dimen name="font_10_pt">6.66sp</dimen>
+	<dimen name="font_11_pt">7.33sp</dimen>
+	<dimen name="font_12_pt">8.00sp</dimen>
+	<dimen name="font_13_pt">8.66sp</dimen>
+	<dimen name="font_14_pt">9.33sp</dimen>
+	<dimen name="font_15_pt">10.00sp</dimen>
+	<dimen name="font_16_pt">10.66sp</dimen>
+	<dimen name="font_17_pt">11.33sp</dimen>
+	<dimen name="font_18_pt">12.00sp</dimen>
+	<dimen name="font_19_pt">12.66sp</dimen>
+	<dimen name="font_20_pt">13.33sp</dimen>
+	<dimen name="font_21_pt">14.00sp</dimen>
+	<dimen name="font_22_pt">14.66sp</dimen>
+	<dimen name="font_23_pt">15.33sp</dimen>
+	<dimen name="font_24_pt">16.00sp</dimen>
+	<dimen name="font_25_pt">16.66sp</dimen>
+	<dimen name="font_26_pt">17.33sp</dimen>
+	<dimen name="font_27_pt">18.00sp</dimen>
+	<dimen name="font_28_pt">18.66sp</dimen>
+	<dimen name="font_29_pt">19.33sp</dimen>
+	<dimen name="font_30_pt">20.00sp</dimen>
+	<dimen name="font_31_pt">20.66sp</dimen>
+	<dimen name="font_32_pt">21.33sp</dimen>
+	<dimen name="font_33_pt">22.00sp</dimen>
+	<dimen name="font_34_pt">22.66sp</dimen>
+	<dimen name="font_35_pt">23.33sp</dimen>
+	<dimen name="font_36_pt">24.00sp</dimen>
+	<dimen name="font_37_pt">24.66sp</dimen>
+	<dimen name="font_38_pt">25.33sp</dimen>
+	<dimen name="font_39_pt">26.00sp</dimen>
+	<dimen name="font_40_pt">26.66sp</dimen>
+	
+	<dimen name="size_15_px">10dp</dimen>
+	<dimen name="size_30_px">20dp</dimen>
+	<dimen name="size_43_px">28.67dp</dimen>
+</resources>

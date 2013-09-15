@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TCloudTheme">
+		<attr name="defaultButton" format="reference" />
+		<attr name="defaultListView" format="reference" />
+    </declare-styleable>
+    
+    <declare-styleable name="TetrisMenu">
+    	<attr name="type">
+    		<enum name="upload_type" value="0"/>
+    		<enum name="download_type" value="1"/>
+    		<enum name="message_upload_type" value="2"/>
+    		<enum name="message_download_type" value="3"/>
+    	</attr>
+    </declare-styleable>
+    
+	<declare-styleable name="SubTabMenu">
+		<attr name="menu_type">
+			<enum name="Message" value="0"/>
+			<enum name="Music" value="1"/>
+		</attr>
+	</declare-styleable>
+	
+	<declare-styleable name="com.innoace.imad.AdView">
+		<attr name="appName" format="string" />
+		<attr name="appID" format="string" />
+		<attr name="backgroundColor" format="color" />
+	</declare-styleable>
+	
+	<declare-styleable name="TGridView">
+		<attr name="viewType" format="string" />		
+	</declare-styleable>
+	
+	<declare-styleable name="TButton">
+		<attr name="drawableLeft" format="reference" />
+		<attr name="drawableRight" format="reference" />		
+	</declare-styleable>
+	
+</resources>
+

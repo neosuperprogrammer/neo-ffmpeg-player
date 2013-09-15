@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3/trunk/android/jni/BasicPlayer/ffmpeg/libavfilter
+END
+avfilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3/trunk/android/jni/BasicPlayer/ffmpeg/libavfilter/avfilter.h
+END
+avfiltergraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3/trunk/android/jni/BasicPlayer/ffmpeg/libavfilter/avfiltergraph.h
+END
+vsink_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/3/trunk/android/jni/BasicPlayer/ffmpeg/libavfilter/vsink_buffer.h
+END
+avcodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3/trunk/android/jni/BasicPlayer/ffmpeg/libavfilter/avcodec.h
+END
+vsrc_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/3/trunk/android/jni/BasicPlayer/ffmpeg/libavfilter/vsrc_buffer.h
+END
